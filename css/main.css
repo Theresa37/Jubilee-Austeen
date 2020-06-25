@@ -53,7 +53,7 @@ nav ul li a{
   text-decoration: none;
   font-size: 18px;
   color: #828282;
-  padding-left: 80px;
+  padding-left: 25px;
 }
 
 header h2{
@@ -181,4 +181,21 @@ header h2{
 #contact ul img {
   font-size: 32px;
   padding-right: 48px;
+}
+
+/**Portfolio Page**/
+
+.my-work {
+    color: #AC3E3E;
+    text-transform: capitalize;
+}
+
+.first-impression  {
+    color: #AC3E3E;
+    font-weight: bold;
+}
+
+.socials-portfolio {
+    text-align: center;
+    padding-right: 80px;
 }
